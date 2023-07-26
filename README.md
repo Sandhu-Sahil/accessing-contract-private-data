@@ -15,5 +15,5 @@ npx hardhat run scripts/deploy.js
 # Acessing the private data of contract
 
 ```
-npx hardhat node
+npx hardhat test
 ```
